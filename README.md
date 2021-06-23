@@ -1,13 +1,14 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# You Don't Know JS Yet (시리즈 도서) - 2판
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+아래 도서들은 JavaScript 언어의 핵심 구조를 깊이 있게 파고드는 시리즈 도서이다. 시리즈 도서의 2판이다:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**이 시리즈 도서를 출판하기 위해 가지게 된 동기와 관점에 대한 자세한 내용은 [서문](preface.md)를 참조.  
+To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+만약 기존의 **1판** 시리즈 도서를 찾고 있다면, [여기서 찾을 수 있다](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
 ## Premier Sponsor
 
