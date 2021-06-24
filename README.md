@@ -1,63 +1,63 @@
-# You Don't Know JS Yet (book series) - 2nd Edition
+# You Don't Know JS Yet (시리즈 도서) - 2판
 
-This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
+아래 도서들은 JavaScript 언어의 핵심 구조를 깊이 있게 파고드는 시리즈 도서이다. 시리즈 도서의 2판이다:
 
 <a href="https://leanpub.com/ydkjsy-get-started"><img src="get-started/images/cover.png" width="75"></a>&nbsp;&nbsp;
 <a href="https://leanpub.com/ydkjsy-scope-closures"><img src="scope-closures/images/cover.png" width="75"></a>&nbsp;&nbsp;...
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+**이 시리즈 도서가 쓰여진 동기와 관점에 대해서 더 알아보려면 [서문](preface.md)를 참조**
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+만약 기존의 **1판** 시리즈 도서를 찾고 있다면, [여기서 찾을 수 있습니다](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
-## Premier Sponsor
+## 프리미어 스폰서
 
-This edition of the **YDKJS** book series is exclusively sponsored by [Frontend Masters](https://frontendmasters.com).
+**YDKJS** 시리즈 도서의 이번 버전은 [Frontend Masters](https://frontendmasters.com)에서 독점적으로 후원. 
 
-Frontend Masters is the gold standard for top-of-the-line expert training material in frontend-oriented software development. With over 150 courses on all things frontend, this should be your first and only stop for quality video training on HTML, CSS, JS, and related technologies.
+Frontend Masters는 프런트엔드 지향적 소프트웨어 개발 분야의 최고 전문가 교육 자료에 대한 금본위제입니다. 프론트엔드에 관한 150개 이상의 교육 과정이 있고 따라서 HTML, CSS, 및 관련 기술에 대한 양질의 비디오 교육을 위한 첫 번째이자 유일한 교육 과정입니다. 
 
 ----
 
-I teach [all my workshops](https://frontendmasters.com/kyle-simpson) exclusively through Frontend Masters. If you like this book content, please check out my video training courses.
+저는 [저의 모든 워크샵](https://frontendmasters.com/kyle-simpson)을 Frontend Masters를 통해 독점적으로 가르치고 있습니다. 이 책 내용이 마음에 드신다면, 제 동영상 교육 과정을 확인해 보세요.
 
-I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
+비디오 교육 플랫폼과의 뛰어난 작업뿐만 아니라 저를 비롯한 "You Don't Know JS" 책을 변함없이 지지해준 Marc Gravanski와 Frontend Masters 팀 전체에게 따듯하고 깊은 감사를 표하고 싶습니다!
 
 ----
 
 ## Titles
 
-I recommend reading the **second edition** books in this order:
+**2판**의 시리즈 도서를 아래의 순서로 읽는 것을 추천:
 
 * [Get Started](get-started/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-get-started) | [Buy on Amazon](https://www.amazon.com/dp/B084BNMN7T)
 * [Scope & Closures](scope-closures/README.md) | [Buy on Leanpub](https://leanpub.com/ydkjsy-scope-closures) | [Buy on Amazon](https://www.amazon.com/dp/B08634PZ3N)
-* Objects & Classes (not yet started)
-* Types & Grammar (not yet started)
-* Sync & Async (not yet started)
-* ES.Next & Beyond (not yet started)
+* Objects & Classes (아직 시작하지 않음)
+* Types & Grammar (아직 시작하지 않음)
+* Sync & Async (아직 시작하지 않음)
+* ES.Next & Beyond (아직 시작하지 않음)
 
-If you're looking for the previous **first edition** books, [they can be found here](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
+기존의 **1판** 도서를 찾고 있다면, [여기서 찾을 수 있습니다](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md).
 
-## Publishing
+## 출판
 
-As always, you'll be able to read these books online here entirely for free.
+언제나 그렇듯이, 아무나 이 도서들을 여기 온라인상에서 무료로 읽을 수 있습니다.
 
-This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
+이 버전의 책들은 [GetiPub](https://geti.pub) 출판을 통해 자체 출판되었습니다. 출판된 책들은 일반 도서 소매점을 통해 판매될 것입니다.
 
-If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
+출판된 도서를 구입하는 것 외에 다른 방법으로 저의 활동( 및 다른 OSS 활동)에 경제적으로 기여하고 싶으시다면, 다음의 선택지들을 고려해주세요:
 
-* [Github Sponsorship](https://github.com/users/getify/sponsorship)
+* [Github 후원](https://github.com/users/getify/sponsorship)
 * [Patreon](https://www.patreon.com/getify)
 * [Paypal](https://www.paypal.me/getify)
 
-## Contributions
+## 기여
 
-Please feel free to contribute to the quality of this content by submitting PRs for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will likely be caught through normal editing/publishing processes, **so please don't worry about them right now.**
+코드 조각, 설명 등의 개선을 위해 PR을 제출하여 이 컨텐츠의 품질에 자유롭게 기여하세요. 오타 수정은 환영받지만, 일반적인 편집/게시 과정을 통해 수정될 것이기 때문에 **지금 당장은 걱정하지 마세요.**
 
-Any contributions you make to this effort **are of course greatly appreciated**.
+물론 이 노력에 대한 어떠한 기여든 **매우 감사하겠습니다**.
 
-But **PLEASE** read the [Contributions Guidelines](CONTRIBUTING.md) carefully before submitting a PR.
+하지만 PR을 제출하기 전에 **PLEASE** [기여 가이드라인](CONTRIBUTING.md)을 주의 깊게 읽어 주세요.
 
-## License & Copyright
+## 허가 및 저작권
 
-The materials herein are all &copy; 2019-2020 Kyle Simpson.
+여기에 수록된 자료는 모두 &copy; 2019-2020 Kyle Simpson입니다.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> 이 저작물은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>에 따라 사용이 허가되었습니다.
