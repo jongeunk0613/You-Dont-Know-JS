@@ -11,11 +11,11 @@
 
 Kyle과 그의 작품에 대해 내가 감사한 부분은 그가 자신을 둘러싼 프로그래밍 세계의 시대정신에 즐겁게 영향을 받지 않았다는 것이다. 그렇다고 그가 커뮤니티에서 무슨 일이 일어나고 있는지 모른다는 말이 아니라 오히려 올바른 질문에 대한 최선의 답을 찾으려는 그의 추구를 시대정신이 흔들지 않는다는 것이다. 이것은 종종 그를 최신의 "모범 사례"(best practice)와 갈등을 빚게 만들었지만, 실제로는 이것이 바로 우리에게 필요한 것이다: 시간적 영향에서 벗어난 관점과 근본적인 진실을 있는 그대로 말하는 것이다. 이 시리즈가 그렇게 좋은 이유가 바로 그것이다. *You Don't Know JS*의 초판은 몇 년이 지난 후에도 여전히 정확하다. 시시각각으로 변하는 JavaScript의 환경을 고려할 때 이 시간의 테스트를 견뎌낼 수 있는 것은 많지 않다. 
 
-첫 번째 책인 *시작하기*에 대해서 잠시 짚고 넘어가보자. 독자 분은 이미 "시작했다"고 생각하고 이 책을 건너뛰려는 유혹을 받겠지만 이 책은 읽을 가지가 있다! You'd be surprised how much depth, nuance, and oddity there is in the underlying building blocks of JavaScript, and it's quite essential for you to grapple with these underpinnings before venturing forward into the constructs of the language. It's exactly the sort of foundation you need, to really know JavaScript.
+첫 번째 책인 *시작하기*에 대해서 잠시 짚고 넘어가보자. 독자 분은 이미 "시작했다"고 생각하고 이 책을 건너뛰려는 유혹을 받겠지만 이 책은 읽을 가치가 있다! JavaScript의 기본 요소에 얼마나 많은 깊이와 뉘앙스와 기이한 점이 있는지 알면 놀랄 것이다. 언어의 구성 요소를 살펴보기 전에 이러한 토대를 다지고 이해하는 것이 매우 중요한데 그 이유는 JavaScript를 제대로 알기 위해서는 꼭 필요한 기초이기 때문이다.
 
-So, do your future self a favor and dig into this book and unlock the knowledge within. These solid foundations will serve you better than any framework ever will; those come and go but we'll still be writing JavaScript itself for decades to come. Keep an open mind and challenge your preconceived notions.
+So, do your future self a favor and dig into this book and unlock the knowledge within. These solid foundations will serve you better than any framework ever will; those come and go but we'll still be writing JavaScript itself for decades to come. 열린 마음을 가지고 자신의 선입견에 도전하라.
 
-Because, as I found out myself, you probably don't know JavaScript (yet).
+왜냐하면, 내가 깨닫게 된 것 처럼, 여러분은 JavaScript를 (아직은) 모를 테니까.
 
 Brian Holt<br>
 Senior Program Manager<br>
