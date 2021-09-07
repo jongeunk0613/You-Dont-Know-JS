@@ -13,7 +13,7 @@
 * [추천서문](foreword.md) (by [Brian Holt](https://twitter.com/holtbt))
 * [서문](../preface.md)
 * [1장: JavaScript란?](ch1.md)
-* [2장: JS 훑어보기](ch2.md)
+* [2장: JS 조사하기](ch2.md)
 * [3장: JS의 뿌리 파해치기](ch3.md)
 * [4장: 더 큰 그림](ch4.md)
 * [부록 A: 추가 탐색](apA.md)
