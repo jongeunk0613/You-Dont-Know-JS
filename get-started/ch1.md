@@ -1,25 +1,25 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Chapter 1: What *Is* JavaScript?
+# You Don't Know JS Yet: 시작하기 - 2판
+# Chapter 1: JavaScript는 *무엇*일까?
 
-You don't know JS, yet. Neither do I, not fully anyway. None of us do. But we can all start getting to know JS better.
+독자는 JS를 모른다, 아직은. 그건 나도 마찬가지 이다. 안다고 해도 완전히 모든 것을 알지 못한다. 우리 중 누구도 그러지 못한다. 하지만 우리 모두 JS에 대해 더 잘 알아갈 수 있다. 
 
-In this first chapter of the first book of the *You Don't Know JS Yet* (YDKJSY) series, we will take some time to build a foundation to move forward on. We need to start by covering a variety of important background housekeeping details, clearing up some myths and misconceptions about what the language really is (and isn't!).
+*You Don't Know JS Yet* (YDKJSY) 시리즈의 첫 번째 책에서는 앞으로 JS에 대해서 알아갈 때 필요한 토대를 다지는 시간을 가질 것이다. JS가 실제로 무엇인지 (그리고 아닌지!)에 대한 몇 가지 신화와 오해를 없애면서 언어 배경의 다양하고 중요한 세부 사항들을 다루는 것으로 시작할 것이다. 
 
-This is valuable insight into the identity and process of how JS is organized and maintained; all JS developers should understand it. If you want to get to know JS, this is how to *get started* taking the first steps in that journey.
+앞서 언급한 내용은 JS가 어떻게 구성되고 유지되는지에 대한 정체성과 프로세스에 대한 귀중한 통찰력이다. 따라서 모든 JS 개발자는 이를 이해해야 한다. JS에 대해 알고 싶다면 이 책이 그 여정을 *시작하기* 위한 첫 단계이다.
 
-## About This Book
+## 책에 관하여
 
-I emphasize the word journey because *knowing JS* is not a destination, it's a direction. No matter how much time you spend with the language, you will always be able to find something else to learn and understand a little better. So don't look at this book as something to rush through for a quick achievement. Instead, patience and persistence are best as you take these first few steps.
+여정이란 단어를 강조하는 이유는 *JS를 아는 것*은 목적지가 아니라 방향이기 때문이다. 독자가 언어와 얼마나 많은 시간을 함께 보냈더라도, 더 배우고 더 잘 이해할 수 있는 다른 무언가를 항상 발견할 수 있을 것이다. 그렇기 때문에 빠르게 이룰 수 있는 성취감을 위해 이 책을 성급하게 보지 않기를 바란다. 대신, 이 여정의 첫 단계를 수행할 때는 인내심과 끈기를 가지고 하는 것이 가장 좋다. 
 
-Following this background chapter, the rest of the book lays out a high-level map of what you will find as you dig into and study JS with the YDKJSY books.
+이 백그라운드 장에 이어지는 나머지 장들에서는, YDKJSY 책으로 JS를 깊게 파보고 공부하면서 무엇을 발견하게 될 것인지에 대한 고차적인 지도를 제시한다. 
 
-In particular, Chapter 4 identifies three main pillars around which the JS language is organized: scope/closures, prototypes/objects, and types/coercion. JS is a broad and sophisticated language, with many features and capabilities. But all of JS is founded on these three foundational pillars.
+특히 4장에서는 JS 언어가 구성되는 세 가지 주요 요소인 스코프/클로저, 프로토타입/객체, 및 타입/형변환에 대해서 설명한다. JS는 다양한 기능과 가능성을 갖춘 광범위하고 정교한 언어이다. 하지만 JS의 모든 것은 이 세 가지 기초적인 기둥을 기반으로 한다. 
 
-Keep in mind that even though this book is titled "Get Started," it's **not intended as a beginner/intro book**. This book's main job is to get you ready for studying JS deeply throughout the rest of the series; it's written assuming you already have familiarity with JS over at least several months experience before moving on in YDKJSY. So to get the most out of *Get Started*, make sure you spend plenty of time writing JS code to build up your experience.
+비록 이 책의 제목은 "시작하기"이지만 **입문서/개론서**가 아니다. 이번 책의 주요 임무는 시리즈의 나머지 책에서 JS를 깊이 공부할 수 있도록 독자를 준비하는 것이다. YDKJSY로 넘어가기 전에 최소 몇 개월의 경험을 통해 독자가 이미 JS에 익숙하다는 가정하에 집필되었다. 따라서 *시작하기* 책을 최대한 활용하려면 충분히 많은 시간을 JS 코드를 작성하는 데 들여 경험을 미리 쌓기를 권한다. 
 
-Even if you've already written a lot of JS before, this book should not be skimmed over or skipped; take your time to fully process the material here. **A good start always depends on a solid first step.**
+이전에 이미 많은 JS 코드를 작성했다 하더라도 이 책을 훑어보거나 건너뛰어서는 안된다. 충분한 시간을 가지고 제시되는 소재를 곱씹어 보길 바란다. **좋은 시작은 항상 견고한 첫 걸음에 달려 있다.**
 
-## What's With That Name?
+## 그 이름은 어디서 나온것일까?
 
 The name JavaScript is probably the most mistaken and misunderstood programming language name.
 
