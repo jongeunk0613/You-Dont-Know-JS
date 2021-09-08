@@ -21,19 +21,19 @@
 
 ## 그 이름은 어디서 나온것일까?
 
-The name JavaScript is probably the most mistaken and misunderstood programming language name.
+JavaScript라는 이름은 아마도 가장 잘못 알고 있고 가장 오해 받는 프로그래밍 언어 이름일 것 이다. 
 
-Is this language related to Java? Is it only the script form for Java? Is it only for writing scripts and not real programs?
+해당 언어는 Java와 관련이 있을까? 단순히 Java의 스크립트 형식인 것일까? 실제 프로그램이 아닌 스크립트를 작성하기 위한 것일까?
 
-The truth is, the name JavaScript is an artifact of marketing shenanigans. When Brendan Eich first conceived of the language, he code-named it Mocha. Internally at Netscape, the brand LiveScript was used. But when it came time to publicly name the language, "JavaScript" won the vote.
+사실을 얘기하자면, JavaScript라는 이름은 마케팅 속임수의 결과이다. 브렌단 아이크(Brendan Eich)가 이 언어를 처음 고안했을 때, 코드명을 모카(Mocha)라고 지정했다. 넷스케이프(Netscape)에서는 내부적으로 LiveScript라는 브랜드명이 사용되었다. 하지만 언어를 공개적으로 명명할 때가 되자 "JavaScript"라는 이름이 투표에서 이겼다. 
 
-Why? Because this language was originally designed to appeal to an audience of mostly Java programmers, and because the word "script" was popular at the time to refer to lightweight programs. These lightweight "scripts" would be the first ones to embed inside of pages on this new thing called the web!
+왜일까? 그 이유는 이 언어는 대부분의 프로그래머들이 Java 프로그래머들로 구성된 청중을 대상으로 계획되었고 "스크립트"라는 단어가 당시에는 경량 프로그램을 지칭하는 데 널리 사용되었기 때문이다. (이 가벼운 "스크립트"들은 웹이라고 불리는 이 새로운 것의 페이지에 삽입되는 첫 번째 스크립트가 될 것이다!)
 
-In other words, JavaScript was a marketing ploy to try to position this language as a palatable alternative to writing the heavier and more well-known Java of the day. It could just as easily have been called "WebJava," for that matter.
+다시 말해서, JavaScript는 그 시대의 더 무겁고 더 잘 알려진 Java를 쓰는 것에 대한 입맛에 맞는 대안으로 내세우기 위한 마케팅 전략이었다. 그렇기 때문에 JavaScript 대신 단순히 "WebJava"라고 불렸어도 문제 없었을 것이다. 
 
-There are some superficial resemblances between JavaScript's code and Java code. Those similarities don't particularly come from shared development, but from both languages targeting developers with assumed syntax expectations from C (and to an extent, C++).
+JavaScript의 코드와 Java의 코드 사이에는 표면적인 유사점들이 존재한다. 이러한 유사점은 특정한 공유된 개발에서 비롯된 것이 아니라 두 언어 모두 C(및 어느 정도까지는 C++)의 구문을 예상하고 기대하는 개발자들을 겨냥하기 때문이다. 
 
-For example, we use the `{` to begin a block of code and the `}` to end that block of code, just like C/C++ and Java. We also use the `;` to punctuate the end of a statement.
+예를 들어, C/C++ 및 Java처럼, 우리는 코드 블록을 시작할 때 `{`를 사용하고 코드 블록을 종료할 때는 `}`를 사용한다. 또한 `;`를 사용해서 statement의 마침표를 찍는다. 
 
 In some ways, legal relationships run even deeper than the syntax. Oracle (via Sun), the company that still owns and runs Java, also owns the official trademark for the name "JavaScript" (via Netscape). This trademark is almost never enforced, and likely couldn't be at this point.
 
